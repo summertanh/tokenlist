@@ -1,0 +1,28 @@
+{
+    "name": "tokens3",
+    "logoURI": "https://nile.tronscan.org/upload/logo/1000193.png",
+    "timestamp": 1610355945066,
+    "tokens": [
+        {
+            "chainId": 1,
+            "address": "TLELxLrgD3dq6kqS4x6dEGJ7xNFMbzK95U",
+            "name": "BitCoin",
+            "symbol": "WBTT",
+            "decimals": 8,
+            "logoURI": "https://coin.top/production/upload/logo/TQP1YvdR7C3p64ntC4wt21zjLhJjJaPYpo.png?t=1601169244264"
+        },
+        {
+            "chainId": 2,
+            "address": "TF17BgPaZYbz8oxbjhriubPDsA7ArKoLX3",
+            "name": "USDJ",
+            "symbol": "USDJ",
+            "decimals": 18,
+            "logoURI": "https://coin.top/production/upload/logo/TWsN5dHBCeG2hbRTC17YXsV9oDoN4tvmQW.png?t=1608857256223"
+        }
+    ],
+    "version": {
+        "major": 4,
+        "minor": 2,
+        "patch": 4
+    }
+}
