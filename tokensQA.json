@@ -21,12 +21,20 @@
       "symbol": "SUN"
     },
     {
-      "address": "TG9XJ75ZWcUw69W8xViEJZQ365fRupGkFP",
-      "chainId": 10,
-      "decimals": 8,
-      "logoURI": "https://coin.top/production/logo/TN3W4H6rK2ce4vX9YnFQHwKENnHjoxb3m9.png",
-      "name": "Bitcoin",
-      "symbol": "BTC"
+      "symbol": "ETH",
+      "address": "TQz9i4JygMCzizdVu8NE4BdqesrsHv1L93",
+      "chainId": 1,
+      "decimals": 18,
+      "name": "Ethereum",
+      "logoURI": "https://coin.top/production/logo/THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF.png"
+    },
+    {
+      "symbol": "WBTT",
+      "address": "TLELxLrgD3dq6kqS4x6dEGJ7xNFMbzK95U",
+      "chainId": 1,
+      "decimals": 6,
+      "name": "Wrapped BitTorrent",
+      "logoURI": "https://coin.top/production/logo/TKfjV9RNKJJCqPvBtK8L7Knykh7DNWvnYt.png"
     }
   ]
 }
