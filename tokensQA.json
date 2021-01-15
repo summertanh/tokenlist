@@ -22,7 +22,7 @@
     },
     {
       "address": "TG9XJ75ZWcUw69W8xViEJZQ365fRupGkFP",
-      "chainId": 256,
+      "chainId": 10,
       "decimals": 8,
       "logoURI": "https://coin.top/production/logo/TN3W4H6rK2ce4vX9YnFQHwKENnHjoxb3m9.png",
       "name": "Bitcoin",
