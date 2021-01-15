@@ -1,5 +1,5 @@
 {
-  "version": { "major": 1, "minor": 5, "patch": 0 },
+  "version": { "major": 1, "minor": 6, "patch": 0 },
   "name": "11",
   "logoURI": "https://justswap.io/favicon.ico",
   "timestamp": 1610522146000,
@@ -7,7 +7,7 @@
     {
       "chainId": 1,
       "address": "TEoh646E7wMrb1ksBqLkMT7Z6ooRzTMxMH",
-      "name": "TronixTest",
+      "name": "TronixTest1",
       "symbol": "TronixTest",
       "decimals": 6,
       "logoURI": "https://coin.top/production/upload/logo/TL6K6iaEkn8kdnJ79a8Be3S4RFf4pFkGE8.png"
