@@ -5,7 +5,7 @@
   "timestamp": 1610522146000,
   "tokens": [
     {
-      "chainId": 0,
+      "chainId": 1,
       "address": "TEoh646E7wMrb1ksBqLkMT7Z6ooRzTMxMH",
       "name": "TronixTest",
       "symbol": "TronixTest",
