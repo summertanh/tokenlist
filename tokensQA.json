@@ -1,5 +1,5 @@
 {
-  "version": { "major": 1, "minor": 6, "patch": 0 },
+  "version": { "major": 1, "minor": 7, "patch": 0 },
   "name": "QA",
   "logoURI": "https://justswap.io/favicon.ico",
   "timestamp": 1610522146000,
@@ -27,14 +27,6 @@
       "decimals": 18,
       "name": "Ethereum",
       "logoURI": "https://coin.top/production/logo/THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF.png"
-    },
-    {
-      "symbol": "WBTT",
-      "address": "TLELxLrgD3dq6kqS4x6dEGJ7xNFMbzK95U",
-      "chainId": 1,
-      "decimals": 6,
-      "name": "Wrapped BitTorrent",
-      "logoURI": "https://coin.top/production/logo/TKfjV9RNKJJCqPvBtK8L7Knykh7DNWvnYt.png"
     }
   ]
 }
