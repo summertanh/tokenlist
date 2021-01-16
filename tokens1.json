@@ -1,5 +1,5 @@
 {
-  "version": { "major": 1, "minor": 7, "patch": 0 },
+  "version": { "major": 1, "minor": 8, "patch": 0 },
   "name": "11",
   "logoURI": "https://justswap.io/favicon.ico",
   "timestamp": 1610522146000,
@@ -11,14 +11,6 @@
       "symbol": "TronixTest",
       "decimals": 6,
       "logoURI": "https://coin.top/production/upload/logo/TL6K6iaEkn8kdnJ79a8Be3S4RFf4pFkGE8.png"
-    },
-    {
-      "address": "TG9XJ75ZWcUw69W8xViEJZQ365fRupGkFP",
-      "chainId": 10,
-      "decimals": 8,
-      "logoURI": "https://coin.top/production/logo/TN3W4H6rK2ce4vX9YnFQHwKENnHjoxb3m9.png",
-      "name": "Bitcoin",
-      "symbol": "BTC"
     },
 
     {

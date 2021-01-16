@@ -1,5 +1,5 @@
 {
-  "version": { "major": 1, "minor": 7, "patch": 0 },
+  "version": { "major": 1, "minor": 8, "patch": 0 },
   "name": "QA",
   "logoURI": "https://justswap.io/favicon.ico",
   "timestamp": 1610522146000,
@@ -19,14 +19,6 @@
       "logoURI": "https://coin.top/production/logo/SUNLogo.178d4636.png",
       "name": "SUN TOKEN",
       "symbol": "SUN"
-    },
-    {
-      "symbol": "ETH",
-      "address": "TQz9i4JygMCzizdVu8NE4BdqesrsHv1L93",
-      "chainId": 1,
-      "decimals": 18,
-      "name": "Ethereum",
-      "logoURI": "https://coin.top/production/logo/THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF.png"
     }
   ]
 }
