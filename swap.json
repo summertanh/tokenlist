@@ -106,6 +106,6 @@
     }
   ],
   "logoURI": "https://justswap.io/favicon.ico",
-  "version": { "patch": 1, "major": 1, "minor": 0 },
+  "version": { "patch": 1, "major": 2, "minor": 0 },
   "timestamp": 1610714711000
 }
